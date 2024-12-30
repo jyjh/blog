@@ -6,9 +6,8 @@ tags: ['ctf', 'blockchain']
 ---
 
 
-I played Wargames.MY with NUS Greyhats at the tail end of 2024. I mainly did blockchain challenges, and we managed to finish first! Here are my writeups for the challenges I did.
+I played Wargames.MY with NUS Greyhats at the tail end of 2024. Here are my writeups for the challenges I did.
 
-{{< figure src="/posts/wgmy24/wargamesmy2024scoreboard.png">}}
 <!--more-->
 
 
